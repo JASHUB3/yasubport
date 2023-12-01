@@ -1,0 +1,52 @@
+.yasob{
+    width: 20%;
+}
+.skills{
+    margin-top: 5%;
+   margin-left: 5%; 
+   margin-right: 5%;
+   margin-right: 5%;
+
+
+}
+.about{
+   margin-right: 5%;
+
+   margin-left: 5%; 
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+}
+.progress{
+    display: flex;
+    flex-direction: column;
+   width: 50%;
+   margin-top: 1%;
+   margin-left: 5%; 
+   margin-right: 5%; 
+}
+.parent-card{
+    margin-right: 5%;
+
+   margin-left: 5%; 
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+}
+.project{
+    width:80%;
+}
+
+.for-card{
+    display: flex;
+    flex-direction: column;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 5%; 
+    margin-right: 5%;
+    margin-right: 5%;
+
+}
